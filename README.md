@@ -1,7 +1,7 @@
 # unecon_house_project
 ![buying-a-house-house](https://github.com/deltaoutloud/unecon_house_project/assets/133055202/7b34d0f9-ea6b-41f7-9a50-e789f5a7bfea)
 
-[lINK TO COLAB] (https://colab.research.google.com/drive/1llTDuBpZe8RkOJrQOgScB_OT4x5UVyL6?usp=sharing)
+[LINK TO COLAB](https://colab.research.google.com/drive/1llTDuBpZe8RkOJrQOgScB_OT4x5UVyL6?usp=sharing)
 
 Данный код является примером объектно-ориентированного программирования на языке Python
 
